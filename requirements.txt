@@ -1,0 +1,5 @@
+Flask==2.3.2
+SQLAlchemy==2.0.15
+PyJWT==2.7.0
+Werkzeug==2.3.2
+pymysql
